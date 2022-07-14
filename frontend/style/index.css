@@ -1,0 +1,21 @@
+@import "/frontend/style/stylesheet.css";
+@import "/frontend/style/corners.css";
+
+html, body{
+    height: 100%;
+    background-color: mintcream;
+}
+
+h1 {
+    font-family: 'latoblack';
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-family: 'latolight';
+    font-weight: 100;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+}
