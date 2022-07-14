@@ -1,5 +1,5 @@
-# OsuAni 
-OsuAni is a web app that helps you to find good anime to watch.
+# AniSu 
+AniSu is a web app that helps you to find good anime to watch.
 
 ## Project status
 In development.
