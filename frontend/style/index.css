@@ -1,7 +1,7 @@
 @import "/frontend/style/stylesheet.css";
 @import "/frontend/style/corners.css";
 
-html, body{
+html, body {
     height: 100%;
     background-color: mintcream;
 }
