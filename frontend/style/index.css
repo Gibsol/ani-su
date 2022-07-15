@@ -8,6 +8,7 @@ html, body{
 
 h1 {
     font-family: 'latoblack';
+    color:rgb(255, 185, 250);
     font-size: 50px;
     text-align: center;
 }
